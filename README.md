@@ -1,0 +1,1 @@
+# redis-docker-state-transfer
